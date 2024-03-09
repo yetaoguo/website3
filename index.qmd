@@ -2,7 +2,7 @@
 title: "website3"
 ---
 
-i am yetao guo ,a student from uoft
+i am yetao guo ,a student from uoft.
 
 ```{r}
 1 + 1
