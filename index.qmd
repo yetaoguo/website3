@@ -2,8 +2,4 @@
 title: "website3"
 ---
 
-i am yetao guo ,a student from uoft.
-
-```{r}
-1 + 1
-```
+I am Yetao Guo from university of toronto.
